@@ -75,7 +75,7 @@ with left:
     st.bar_chart(reports["falhas_por_hora"].set_index("hora")["falhas"])
 with right:
     st.subheader("Eventos por dia")
-    st.bar_chart(reports["eventos_por_dia"].set_index("dia")[["falhas", "sucessos"]])
+    st.bar_chart(reports["eventos_por_dia"].astype({"dia": str}).set_index("dia")[["falhas", "sucessos"]])
 
 left, right = st.columns(2)
 with left:
@@ -84,3 +84,4 @@ with left:
 with right:
     st.subheader("Usuários mais visados")
     ranking(reports["usuarios_mais_visados"])
+
