@@ -1,0 +1,175 @@
+Nov 20 08:47:01 srv01 sshd[3927]: Accepted password for joao from 198.51.100.11 port 54967 ssh2
+Nov 20 09:01:52 srv01 sshd[2679]: Accepted password for maria from 198.51.100.10 port 54132 ssh2
+Nov 20 09:02:47 srv01 sshd[4814]: Accepted password for daniel from 198.51.100.11 port 58027 ssh2
+Nov 20 09:24:22 srv01 sshd[7065]: Accepted password for maria from 198.51.100.12 port 35329 ssh2
+Nov 20 09:35:23 srv01 sshd[4150]: Accepted password for joao from 198.51.100.12 port 41850 ssh2
+Nov 20 10:08:47 srv01 sshd[7932]: Accepted password for maria from 198.51.100.12 port 47290 ssh2
+Nov 20 10:13:48 srv01 sshd[6881]: Failed password for maria from 198.51.100.10 port 33169 ssh2
+Nov 20 10:13:53 srv01 sshd[6635]: Accepted password for maria from 198.51.100.10 port 57770 ssh2
+Nov 20 10:23:53 srv01 sshd[1009]: Accepted password for daniel from 198.51.100.12 port 47378 ssh2
+Nov 20 11:03:15 srv01 sshd[2133]: Failed password for joao from 198.51.100.10 port 45924 ssh2
+Nov 20 11:03:20 srv01 sshd[9727]: Accepted password for joao from 198.51.100.10 port 54923 ssh2
+Nov 20 11:41:36 srv01 sshd[3287]: Accepted password for maria from 198.51.100.12 port 38679 ssh2
+Nov 20 11:47:40 srv01 sshd[7543]: Accepted password for joao from 198.51.100.11 port 44038 ssh2
+Nov 20 11:52:07 srv01 sshd[6155]: Accepted password for maria from 198.51.100.11 port 36913 ssh2
+Nov 20 12:36:00 srv01 sshd[9797]: Accepted password for daniel from 198.51.100.12 port 52338 ssh2
+Nov 20 12:49:46 srv01 sshd[8433]: Accepted password for maria from 198.51.100.10 port 35182 ssh2
+Nov 20 12:59:45 srv01 sshd[1916]: Accepted password for joao from 198.51.100.12 port 40626 ssh2
+Nov 20 13:13:47 srv01 sshd[2169]: Accepted password for maria from 198.51.100.12 port 51234 ssh2
+Nov 20 13:14:08 srv01 sshd[2796]: Failed password for joao from 198.51.100.11 port 31543 ssh2
+Nov 20 13:14:13 srv01 sshd[3621]: Accepted password for joao from 198.51.100.11 port 35008 ssh2
+Nov 20 14:38:09 srv01 sshd[9669]: Accepted password for maria from 198.51.100.11 port 45337 ssh2
+Nov 20 16:05:37 srv01 sshd[4811]: Failed password for maria from 198.51.100.10 port 37164 ssh2
+Nov 20 16:05:42 srv01 sshd[1434]: Accepted password for maria from 198.51.100.10 port 46559 ssh2
+Nov 20 16:12:50 srv01 sshd[8359]: Accepted password for joao from 198.51.100.12 port 37223 ssh2
+Nov 20 16:58:11 srv01 sshd[4258]: Accepted password for joao from 198.51.100.11 port 46635 ssh2
+Nov 20 17:16:56 srv01 sshd[7201]: Accepted password for daniel from 198.51.100.12 port 34090 ssh2
+Nov 20 17:17:56 srv01 sshd[5552]: Accepted password for daniel from 198.51.100.10 port 41149 ssh2
+Nov 20 17:20:36 srv01 sshd[6038]: Accepted password for daniel from 198.51.100.10 port 58793 ssh2
+Nov 20 17:40:15 srv01 sshd[7216]: Accepted password for joao from 198.51.100.12 port 45147 ssh2
+Nov 21 03:10:00 srv01 sshd[3881]: Failed password for invalid user test from 203.0.113.50 port 37170 ssh2
+Nov 21 03:10:04 srv01 sshd[1822]: Failed password for invalid user oracle from 203.0.113.50 port 45222 ssh2
+Nov 21 03:10:08 srv01 sshd[2988]: Failed password for invalid user oracle from 203.0.113.50 port 38165 ssh2
+Nov 21 03:10:12 srv01 sshd[8612]: Failed password for invalid user test from 203.0.113.50 port 34369 ssh2
+Nov 21 03:10:16 srv01 sshd[6198]: Failed password for invalid user oracle from 203.0.113.50 port 48314 ssh2
+Nov 21 03:10:20 srv01 sshd[9270]: Failed password for invalid user test from 203.0.113.50 port 50075 ssh2
+Nov 21 03:10:24 srv01 sshd[9976]: Failed password for invalid user test from 203.0.113.50 port 57216 ssh2
+Nov 21 03:10:28 srv01 sshd[3607]: Failed password for invalid user test from 203.0.113.50 port 59399 ssh2
+Nov 21 03:10:32 srv01 sshd[5246]: Failed password for invalid user test from 203.0.113.50 port 44747 ssh2
+Nov 21 03:10:36 srv01 sshd[5543]: Failed password for invalid user admin from 203.0.113.50 port 57520 ssh2
+Nov 21 03:10:40 srv01 sshd[4919]: Failed password for invalid user oracle from 203.0.113.50 port 45879 ssh2
+Nov 21 03:10:44 srv01 sshd[2269]: Failed password for invalid user ubuntu from 203.0.113.50 port 44413 ssh2
+Nov 21 03:10:48 srv01 sshd[5451]: Failed password for invalid user ubuntu from 203.0.113.50 port 37683 ssh2
+Nov 21 03:10:52 srv01 sshd[9849]: Failed password for invalid user ubuntu from 203.0.113.50 port 40476 ssh2
+Nov 21 03:10:56 srv01 sshd[3471]: Failed password for root from 203.0.113.50 port 34534 ssh2
+Nov 21 03:11:00 srv01 sshd[3503]: Failed password for invalid user admin from 203.0.113.50 port 42551 ssh2
+Nov 21 03:11:04 srv01 sshd[7797]: Failed password for invalid user admin from 203.0.113.50 port 32104 ssh2
+Nov 21 03:11:08 srv01 sshd[9890]: Failed password for invalid user test from 203.0.113.50 port 40842 ssh2
+Nov 21 03:11:12 srv01 sshd[2020]: Failed password for invalid user test from 203.0.113.50 port 43624 ssh2
+Nov 21 03:11:16 srv01 sshd[7883]: Failed password for invalid user admin from 203.0.113.50 port 57292 ssh2
+Nov 21 03:11:20 srv01 sshd[1320]: Failed password for invalid user test from 203.0.113.50 port 59649 ssh2
+Nov 21 03:11:24 srv01 sshd[8814]: Failed password for invalid user oracle from 203.0.113.50 port 42464 ssh2
+Nov 21 03:11:28 srv01 sshd[5892]: Failed password for root from 203.0.113.50 port 41526 ssh2
+Nov 21 03:11:32 srv01 sshd[7865]: Failed password for invalid user test from 203.0.113.50 port 57965 ssh2
+Nov 21 03:11:36 srv01 sshd[9947]: Failed password for invalid user oracle from 203.0.113.50 port 54494 ssh2
+Nov 21 03:11:40 srv01 sshd[4613]: Failed password for invalid user oracle from 203.0.113.50 port 59419 ssh2
+Nov 21 03:11:44 srv01 sshd[5471]: Failed password for invalid user test from 203.0.113.50 port 37190 ssh2
+Nov 21 03:11:48 srv01 sshd[1475]: Failed password for invalid user test from 203.0.113.50 port 45913 ssh2
+Nov 21 03:11:52 srv01 sshd[7624]: Failed password for invalid user test from 203.0.113.50 port 41014 ssh2
+Nov 21 03:11:56 srv01 sshd[8657]: Failed password for invalid user admin from 203.0.113.50 port 57541 ssh2
+Nov 21 03:12:00 srv01 sshd[9751]: Failed password for invalid user admin from 203.0.113.50 port 50390 ssh2
+Nov 21 03:12:04 srv01 sshd[7455]: Failed password for root from 203.0.113.50 port 59718 ssh2
+Nov 21 03:12:08 srv01 sshd[1444]: Failed password for invalid user oracle from 203.0.113.50 port 48493 ssh2
+Nov 21 03:12:12 srv01 sshd[8022]: Failed password for root from 203.0.113.50 port 51061 ssh2
+Nov 21 03:12:16 srv01 sshd[8564]: Failed password for invalid user admin from 203.0.113.50 port 58404 ssh2
+Nov 21 03:12:20 srv01 sshd[5262]: Failed password for invalid user admin from 203.0.113.50 port 31647 ssh2
+Nov 21 03:12:24 srv01 sshd[4467]: Failed password for invalid user test from 203.0.113.50 port 40726 ssh2
+Nov 21 03:12:28 srv01 sshd[6529]: Failed password for invalid user test from 203.0.113.50 port 40710 ssh2
+Nov 21 03:12:32 srv01 sshd[7906]: Failed password for invalid user test from 203.0.113.50 port 39117 ssh2
+Nov 21 03:12:36 srv01 sshd[2341]: Failed password for invalid user ubuntu from 203.0.113.50 port 57358 ssh2
+Nov 21 03:12:40 srv01 sshd[9837]: Failed password for invalid user test from 203.0.113.50 port 30635 ssh2
+Nov 21 03:12:44 srv01 sshd[4673]: Failed password for root from 203.0.113.50 port 41467 ssh2
+Nov 21 03:12:48 srv01 sshd[1659]: Failed password for root from 203.0.113.50 port 55599 ssh2
+Nov 21 03:12:52 srv01 sshd[4266]: Failed password for root from 203.0.113.50 port 38102 ssh2
+Nov 21 03:12:56 srv01 sshd[3496]: Failed password for root from 203.0.113.50 port 50359 ssh2
+Nov 21 03:13:00 srv01 sshd[8758]: Failed password for invalid user admin from 203.0.113.50 port 34136 ssh2
+Nov 21 03:13:04 srv01 sshd[4571]: Failed password for root from 203.0.113.50 port 48480 ssh2
+Nov 21 03:13:08 srv01 sshd[5198]: Failed password for invalid user test from 203.0.113.50 port 52920 ssh2
+Nov 21 03:13:12 srv01 sshd[2876]: Failed password for invalid user ubuntu from 203.0.113.50 port 35498 ssh2
+Nov 21 03:13:16 srv01 sshd[2771]: Failed password for invalid user admin from 203.0.113.50 port 40192 ssh2
+Nov 21 03:13:20 srv01 sshd[6111]: Failed password for invalid user oracle from 203.0.113.50 port 30841 ssh2
+Nov 21 03:13:24 srv01 sshd[7149]: Failed password for invalid user oracle from 203.0.113.50 port 52195 ssh2
+Nov 21 03:13:28 srv01 sshd[4249]: Failed password for invalid user test from 203.0.113.50 port 53429 ssh2
+Nov 21 03:13:32 srv01 sshd[4978]: Failed password for root from 203.0.113.50 port 49401 ssh2
+Nov 21 03:13:36 srv01 sshd[5941]: Failed password for root from 203.0.113.50 port 52845 ssh2
+Nov 21 03:13:40 srv01 sshd[2983]: Failed password for invalid user oracle from 203.0.113.50 port 56395 ssh2
+Nov 21 03:13:44 srv01 sshd[1672]: Failed password for invalid user oracle from 203.0.113.50 port 55645 ssh2
+Nov 21 03:13:48 srv01 sshd[8018]: Failed password for invalid user ubuntu from 203.0.113.50 port 47456 ssh2
+Nov 21 03:13:52 srv01 sshd[9289]: Failed password for invalid user ubuntu from 203.0.113.50 port 32259 ssh2
+Nov 21 03:13:56 srv01 sshd[7882]: Failed password for invalid user ubuntu from 203.0.113.50 port 30414 ssh2
+Nov 21 03:14:00 srv01 sshd[8102]: Failed password for invalid user test from 203.0.113.50 port 33458 ssh2
+Nov 21 03:14:04 srv01 sshd[8532]: Failed password for invalid user ubuntu from 203.0.113.50 port 50826 ssh2
+Nov 21 03:14:08 srv01 sshd[3885]: Failed password for invalid user admin from 203.0.113.50 port 44270 ssh2
+Nov 21 03:14:12 srv01 sshd[5425]: Failed password for invalid user oracle from 203.0.113.50 port 51314 ssh2
+Nov 21 03:14:16 srv01 sshd[9817]: Failed password for invalid user oracle from 203.0.113.50 port 56483 ssh2
+Nov 21 03:14:20 srv01 sshd[8136]: Failed password for invalid user test from 203.0.113.50 port 45232 ssh2
+Nov 21 03:14:24 srv01 sshd[6280]: Failed password for invalid user oracle from 203.0.113.50 port 38794 ssh2
+Nov 21 03:14:28 srv01 sshd[2419]: Failed password for invalid user admin from 203.0.113.50 port 57221 ssh2
+Nov 21 03:14:32 srv01 sshd[8385]: Failed password for invalid user ubuntu from 203.0.113.50 port 58889 ssh2
+Nov 21 03:14:36 srv01 sshd[8613]: Failed password for invalid user admin from 203.0.113.50 port 54591 ssh2
+Nov 21 03:14:40 srv01 sshd[7209]: Failed password for invalid user oracle from 203.0.113.50 port 49999 ssh2
+Nov 21 03:14:44 srv01 sshd[9098]: Failed password for invalid user ubuntu from 203.0.113.50 port 30940 ssh2
+Nov 21 03:14:48 srv01 sshd[8988]: Failed password for invalid user ubuntu from 203.0.113.50 port 35958 ssh2
+Nov 21 03:14:52 srv01 sshd[5232]: Failed password for invalid user admin from 203.0.113.50 port 41626 ssh2
+Nov 21 03:14:56 srv01 sshd[5526]: Failed password for invalid user ubuntu from 203.0.113.50 port 39163 ssh2
+Nov 21 03:15:00 srv01 sshd[9464]: Failed password for invalid user oracle from 203.0.113.50 port 30332 ssh2
+Nov 21 03:15:04 srv01 sshd[4954]: Failed password for invalid user admin from 203.0.113.50 port 32805 ssh2
+Nov 21 03:15:08 srv01 sshd[4937]: Failed password for invalid user test from 203.0.113.50 port 46009 ssh2
+Nov 21 03:15:12 srv01 sshd[9041]: Failed password for invalid user test from 203.0.113.50 port 51164 ssh2
+Nov 21 03:15:16 srv01 sshd[1282]: Failed password for invalid user test from 203.0.113.50 port 55982 ssh2
+Nov 21 08:03:42 srv01 sshd[3579]: Accepted password for maria from 198.51.100.12 port 47403 ssh2
+Nov 21 08:14:04 srv01 sshd[5562]: Failed password for daniel from 198.51.100.11 port 37798 ssh2
+Nov 21 08:14:09 srv01 sshd[8953]: Accepted password for daniel from 198.51.100.11 port 51921 ssh2
+Nov 21 08:25:51 srv01 sshd[9786]: Accepted password for maria from 198.51.100.10 port 36232 ssh2
+Nov 21 08:32:10 srv01 sshd[4853]: Accepted password for daniel from 198.51.100.10 port 52125 ssh2
+Nov 21 09:34:18 srv01 sshd[2127]: Accepted password for joao from 198.51.100.11 port 41436 ssh2
+Nov 21 09:56:13 srv01 sshd[3546]: Accepted password for maria from 198.51.100.10 port 54327 ssh2
+Nov 21 10:24:05 srv01 sshd[8454]: Accepted password for maria from 198.51.100.11 port 55727 ssh2
+Nov 21 10:26:36 srv01 sshd[1960]: Accepted password for maria from 198.51.100.10 port 59571 ssh2
+Nov 21 11:18:18 srv01 sshd[6138]: Accepted password for daniel from 198.51.100.12 port 31997 ssh2
+Nov 21 11:23:23 srv01 sshd[5956]: Accepted password for daniel from 198.51.100.11 port 53053 ssh2
+Nov 21 11:34:13 srv01 sshd[8749]: Accepted password for joao from 198.51.100.12 port 37962 ssh2
+Nov 21 11:59:39 srv01 sshd[7537]: Accepted password for joao from 198.51.100.12 port 40214 ssh2
+Nov 21 12:18:43 srv01 sshd[5325]: Accepted password for daniel from 198.51.100.12 port 52527 ssh2
+Nov 21 12:27:49 srv01 sshd[3536]: Accepted password for joao from 198.51.100.12 port 45947 ssh2
+Nov 21 13:01:42 srv01 sshd[2163]: Accepted password for joao from 198.51.100.10 port 30235 ssh2
+Nov 21 13:15:21 srv01 sshd[8491]: Accepted password for maria from 198.51.100.10 port 39830 ssh2
+Nov 21 13:29:02 srv01 sshd[2049]: Accepted password for joao from 198.51.100.11 port 37362 ssh2
+Nov 21 13:59:53 srv01 sshd[2638]: Accepted password for daniel from 198.51.100.10 port 48448 ssh2
+Nov 21 14:08:01 srv01 sshd[2343]: Accepted password for joao from 198.51.100.10 port 31302 ssh2
+Nov 21 14:12:11 srv01 sshd[7735]: Accepted password for daniel from 198.51.100.12 port 43879 ssh2
+Nov 21 14:42:42 srv01 sshd[4346]: Accepted password for joao from 198.51.100.12 port 38544 ssh2
+Nov 21 15:08:32 srv01 sshd[2235]: Accepted password for daniel from 198.51.100.11 port 58655 ssh2
+Nov 21 15:51:55 srv01 sshd[1241]: Failed password for joao from 198.51.100.10 port 47713 ssh2
+Nov 21 15:52:00 srv01 sshd[4872]: Accepted password for joao from 198.51.100.10 port 33056 ssh2
+Nov 21 15:55:51 srv01 sshd[2612]: Accepted password for daniel from 198.51.100.12 port 51174 ssh2
+Nov 21 17:51:46 srv01 sshd[5905]: Accepted password for joao from 198.51.100.10 port 48173 ssh2
+Nov 22 02:41:00 srv01 sshd[9779]: Accepted password for maria from 198.51.100.99 port 52000 ssh2
+Nov 22 08:00:26 srv01 sshd[8239]: Accepted password for daniel from 198.51.100.12 port 35294 ssh2
+Nov 22 08:19:28 srv01 sshd[2684]: Accepted password for daniel from 198.51.100.11 port 38176 ssh2
+Nov 22 08:34:04 srv01 sshd[4228]: Accepted password for joao from 198.51.100.12 port 54312 ssh2
+Nov 22 09:18:37 srv01 sshd[4848]: Accepted password for joao from 198.51.100.12 port 33060 ssh2
+Nov 22 09:25:02 srv01 sshd[8144]: Accepted password for joao from 198.51.100.10 port 53225 ssh2
+Nov 22 09:38:32 srv01 sshd[9379]: Accepted password for maria from 198.51.100.12 port 44299 ssh2
+Nov 22 10:56:31 srv01 sshd[7745]: Accepted password for daniel from 198.51.100.10 port 40885 ssh2
+Nov 22 11:01:47 srv01 sshd[2137]: Accepted password for daniel from 198.51.100.11 port 58323 ssh2
+Nov 22 11:12:57 srv01 sshd[4728]: Accepted password for maria from 198.51.100.11 port 56061 ssh2
+Nov 22 11:17:15 srv01 sshd[8711]: Accepted password for joao from 198.51.100.10 port 31268 ssh2
+Nov 22 11:27:55 srv01 sshd[8238]: Accepted password for joao from 198.51.100.12 port 45236 ssh2
+Nov 22 12:14:51 srv01 sshd[8784]: Failed password for daniel from 198.51.100.10 port 38023 ssh2
+Nov 22 12:14:56 srv01 sshd[2193]: Accepted password for daniel from 198.51.100.10 port 50030 ssh2
+Nov 22 12:22:46 srv01 sshd[9785]: Accepted password for joao from 198.51.100.11 port 57645 ssh2
+Nov 22 12:32:24 srv01 sshd[5844]: Accepted password for joao from 198.51.100.11 port 52846 ssh2
+Nov 22 13:01:12 srv01 sshd[1626]: Accepted password for maria from 198.51.100.10 port 38698 ssh2
+Nov 22 13:27:09 srv01 sshd[3041]: Accepted password for joao from 198.51.100.11 port 51737 ssh2
+Nov 22 13:49:40 srv01 sshd[3662]: Accepted password for maria from 198.51.100.12 port 37757 ssh2
+Nov 22 14:00:00 srv01 sshd[5820]: Failed password for invalid user guest from 203.0.113.77 port 33049 ssh2
+Nov 22 14:10:00 srv01 sshd[7625]: Failed password for invalid user guest from 203.0.113.77 port 37261 ssh2
+Nov 22 14:20:00 srv01 sshd[4986]: Failed password for invalid user guest from 203.0.113.77 port 52668 ssh2
+Nov 22 14:30:00 srv01 sshd[7046]: Failed password for invalid user guest from 203.0.113.77 port 40033 ssh2
+Nov 22 14:40:00 srv01 sshd[9698]: Failed password for invalid user guest from 203.0.113.77 port 45507 ssh2
+Nov 22 14:50:00 srv01 sshd[7971]: Failed password for invalid user guest from 203.0.113.77 port 41264 ssh2
+Nov 22 15:00:00 srv01 sshd[6419]: Failed password for invalid user guest from 203.0.113.77 port 54442 ssh2
+Nov 22 15:10:00 srv01 sshd[8434]: Failed password for invalid user guest from 203.0.113.77 port 41528 ssh2
+Nov 22 15:20:00 srv01 sshd[6023]: Failed password for invalid user guest from 203.0.113.77 port 38877 ssh2
+Nov 22 15:25:20 srv01 sshd[2746]: Accepted password for daniel from 198.51.100.12 port 59250 ssh2
+Nov 22 15:27:01 srv01 sshd[7291]: Accepted password for joao from 198.51.100.12 port 52818 ssh2
+Nov 22 15:30:00 srv01 sshd[4777]: Failed password for invalid user guest from 203.0.113.77 port 38237 ssh2
+Nov 22 15:40:00 srv01 sshd[4155]: Failed password for invalid user guest from 203.0.113.77 port 33953 ssh2
+Nov 22 15:43:18 srv01 sshd[3780]: Accepted password for joao from 198.51.100.11 port 56084 ssh2
+Nov 22 15:50:00 srv01 sshd[2958]: Failed password for invalid user guest from 203.0.113.77 port 40339 ssh2
+Nov 22 16:02:58 srv01 sshd[3088]: Accepted password for maria from 198.51.100.12 port 44083 ssh2
+Nov 22 16:08:17 srv01 sshd[3851]: Accepted password for maria from 198.51.100.12 port 52194 ssh2
+Nov 22 16:31:21 srv01 sshd[5533]: Accepted password for daniel from 198.51.100.10 port 57176 ssh2
+Nov 22 16:45:32 srv01 sshd[3442]: Accepted password for joao from 198.51.100.10 port 58937 ssh2
+Nov 22 17:36:24 srv01 sshd[5700]: Accepted password for maria from 198.51.100.12 port 39957 ssh2

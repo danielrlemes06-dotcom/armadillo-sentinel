@@ -227,3 +227,6 @@ __marimo__/
 data/raw/
 
 reports/
+
+# log de exemplo (fictício) deve ir para o repositório
+!data/samples/auth.log
