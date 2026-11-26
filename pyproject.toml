@@ -7,7 +7,7 @@ name = "armadillo-sentinel"
 version = "0.1.0"
 description = "Analisador de logs que detecta comportamentos suspeitos"
 requires-python = ">=3.10"
-dependencies = ["pandas", "psycopg2-binary", "python-dotenv"]
+dependencies = ["pandas", "psycopg2-binary", "python-dotenv", "streamlit"]
 
 [project.scripts]
 sentinel = "armadillo_sentinel.cli:main"
