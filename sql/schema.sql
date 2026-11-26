@@ -21,3 +21,6 @@ CREATE TABLE IF NOT EXISTS alerts (
 CREATE INDEX IF NOT EXISTS idx_events_time ON log_events (event_time);
 CREATE INDEX IF NOT EXISTS idx_events_ip   ON log_events (source_ip);
 CREATE INDEX IF NOT EXISTS idx_events_type ON log_events (event_type);
+
+CREATE UNIQUE INDEX IF NOT EXISTS uq_events_dedup
+    ON log_events (source, event_time, md5(raw_line));
