@@ -1,6 +1,8 @@
 import re
 from datetime import datetime
 
+from .cowrie import parse_cowrie_file
+
 LINE_RE = re.compile(
     r"^(?P<mon>[A-Z][a-z]{2})\s+(?P<day>\d{1,2})\s+(?P<time>\d{2}:\d{2}:\d{2})\s+"
     r"(?P<host>\S+)\s+(?P<proc>[\w\-/]+)(?:\[\d+\])?:\s+(?P<msg>.*)$"
@@ -36,7 +38,19 @@ def parse_line(line, year, source="auth.log"):
     return None
 
 
+def detect_format(path):
+    """Cowrie grava um objeto JSON por linha; syslog comeca com a data."""
+    with open(path, encoding="utf-8", errors="replace") as f:
+        for line in f:
+            stripped = line.strip()
+            if stripped:
+                return "cowrie" if stripped.startswith("{") else "syslog"
+    return "syslog"
+
+
 def parse_file(path, year=None, source="auth.log"):
+    if detect_format(path) == "cowrie":
+        return parse_cowrie_file(path)
     year = year or datetime.now().year
     events = []
     with open(path, encoding="utf-8", errors="replace") as f:

@@ -160,3 +160,12 @@ def test_run_detectors_counts_and_is_idempotent(db):
     kinds = sorted(kind for kind, _ip, _sev in alerts(db))
     # alertas de outros tipos nao sao apagados
     assert kinds == ["brute_force", "manual", "odd_hour", "suspicious_ip"]
+
+
+def test_honeypot_login_does_not_hide_suspicious_ip_nor_trigger_odd_hour(db):
+    rows = failures(ATTACKER, 12) + [
+        (datetime(2026, 11, 22, 3, 0, 0), ATTACKER, "honeypot_login", "root")
+    ]
+    insert(db, rows)
+    assert run(db, detect_suspicious_ips) == 1
+    assert run(db, detect_odd_hours) == 0
