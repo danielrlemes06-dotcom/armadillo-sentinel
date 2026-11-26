@@ -1,5 +1,7 @@
 ﻿# Armadillo Sentinel
 
+![tests](https://github.com/danielrlemes06-dotcom/armadillo-sentinel/actions/workflows/tests.yml/badge.svg)
+
 Analisador de logs de autenticação que identifica comportamentos suspeitos: tentativas excessivas de login (força bruta), IPs suspeitos e acessos em horários incomuns. Os eventos ficam em PostgreSQL e o resultado aparece em relatórios estatísticos e num dashboard.
 
 ![Dashboard do Armadillo Sentinel](docs/img/dashboard.png)
@@ -120,7 +122,7 @@ docker-compose.yml
 - [x] Detectores e alertas
 - [x] Relatórios e dashboard
 - [x] Docker Compose
-- [ ] Testes automatizados (pytest)
+- [x] Testes automatizados (pytest)
 - [ ] Adaptador para logs JSON do Cowrie (honeypot SSH)
 - [ ] Demo pública com dados fictícios
 
